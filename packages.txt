@@ -1,4 +1,3 @@
-# ── System packages for headless Chromium (Playwright) ──
 chromium
 chromium-driver
 libglib2.0-0
